@@ -1,0 +1,54 @@
+[
+  {
+   "name": "Staff 1",
+   "inoffice": true
+  },
+  {
+   "name": "Staff 2",
+   "inoffice": true
+  },
+  {
+   "name": "Staff 3",
+   "inoffice": false
+  },
+  {
+   "name": "Staff 4",
+   "inoffice": true
+  },
+  {
+   "name": "Staff 5",
+   "inoffice": false
+  },
+  {
+   "name": "Staff 6",
+   "inoffice": true
+  },
+  {
+   "name": "Staff 7",
+   "inoffice": false
+  },
+  {
+   "name": "Staff 8",
+   "inoffice": false
+  },
+  {
+   "name": "Staff 9",
+   "inoffice": true
+  },
+  {
+   "name": "Staff 10",
+   "inoffice": false
+  }, 
+  {
+   "name": "Staff 11",
+   "inoffice": false
+  },
+  {
+   "name": "Staff 12",
+   "inoffice": false
+  },
+  {
+   "name": "Staff 12",
+   "inoffice": true
+  }
+]

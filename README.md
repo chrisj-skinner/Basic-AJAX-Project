@@ -9,7 +9,7 @@ I used this format to display which months of the year I am available for freela
 
 ### Tech
 
-Basic AJAX Project does not use any open source projects -  it's just kept simple!
+Basic AJAX Project does not use any open source projects -  it's just kept simple.
 
 ### Installation
 

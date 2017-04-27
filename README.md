@@ -7,7 +7,7 @@ I used this format to display which months of the year I am available for freela
 ### Version
 1.1.0
 
-## Update
+## 1.1.0 Update
 Add promises | modularise code | add ES2016 const / let in place of var.
 
 ### Tech

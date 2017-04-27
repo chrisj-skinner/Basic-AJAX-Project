@@ -2,7 +2,7 @@
 
 Basic AJAX Project making a call to a JSON file. Dynamically creating a sidebar widget through pure Javascript and updating the page.
 
-View a modified version of the widget, which displays the months of the year I am available for contract work, at my [Portfolio]: (http://chrisskinner.co/).
+View a modified version of the widget, which displays the months of the year I am available for contract work, at my [Portfolio](http://chrisskinner.co/).
 
 ### Version
 1.1.0
@@ -23,4 +23,4 @@ git clone https://github.com/chrisj-skinner/Basic-AJAX-Project.git
 License
 ----
 
-[MIT] (https://github.com/chrisj-skinner/Basic-AJAX-Project/blob/master/LICENSE)
+[MIT](https://github.com/chrisj-skinner/Basic-AJAX-Project/blob/master/LICENSE)
